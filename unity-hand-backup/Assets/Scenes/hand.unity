@@ -1521,7 +1521,7 @@ GameObject:
   - component: {fileID: 520332286}
   - component: {fileID: 520332285}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: GrabTrigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1655,7 +1655,7 @@ GameObject:
   - component: {fileID: 547652351}
   - component: {fileID: 547652350}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: GrabTrigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3068,7 +3068,7 @@ GameObject:
   - component: {fileID: 1038746778}
   - component: {fileID: 1038746779}
   m_Layer: 0
-  m_Name: Scripts
+  m_Name: ResetScene
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

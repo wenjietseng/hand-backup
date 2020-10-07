@@ -47,8 +47,5 @@ public class HandTrackingGrabber : OVRGrabber
         }
 
         GrabVolumeEnable(true);
-
     }
-    
-
 }
