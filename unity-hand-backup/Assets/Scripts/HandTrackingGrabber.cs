@@ -18,6 +18,7 @@ public class HandTrackingGrabber : OVRGrabber
     {
         base.Update();
         CheckIndexPinch();
+        this.transform.position = hand.GetComponent<OVRSkeleton>().Bones[(int)OVRPlugin.BoneId.Hand_IndexTip].Transform.position;
     }
 
     void CheckIndexPinch()
